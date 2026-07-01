@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0031/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說觀彌勒菩薩上生兜率天經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0452.xml
+    old_id: T14n0452
+hash: sha256:21cf26ff2db1b31613d43c5b8364b7a3ac20d0b168d0cd7c6966e9192789a164

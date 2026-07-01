@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR6i0031/v1
+canonical_location: https://kanripo.org/bkk/KR6i0031/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說觀彌勒菩薩上生兜率天經
+  identifiers:
+    alt_id:
+    - T14n0452
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0452.xml
+    old_id: T14n0452
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 宮
+  label: 宮
+  source_xml_id: wit3
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0031_000.yaml, hash: 'sha256:21cf26ff2db1b31613d43c5b8364b7a3ac20d0b168d0cd7c6966e9192789a164'}
+  - {seq: 1, filename: KR6i0031_001.yaml, hash: 'sha256:eb9a0f8a5abb0a6a763614f21347e8a5fc43b618260806c9880ac4ae206e87cd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6i0031_001.markers.yaml, hash: 'sha256:90447d1f7af11936aaf7d99c7c6fdd76384e6993c5ac34728d0c5f052e66498a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3544
+  label: 佛說觀彌勒菩薩上生兜率天經
+  type: juan
+  level: 1
+hash: sha256:89eaf58a62961cd866df5876deebd1353d03e6015bd7c3b2da4cc2918614e90e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

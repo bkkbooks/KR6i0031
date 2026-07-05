@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0031_000.yaml, hash: 'sha256:21cf26ff2db1b31613d43c5b8364b7a3ac20d0b168d0cd7c6966e9192789a164'}
-  - {seq: 1, filename: KR6i0031_001.yaml, hash: 'sha256:eb9a0f8a5abb0a6a763614f21347e8a5fc43b618260806c9880ac4ae206e87cd'}
+  - {seq: 1, filename: KR6i0031_001.yaml, hash: 'sha256:383ebda42e52e8eeb3e95eb627027e20cb13e9664c8d460bfeb10379df0e7f8b'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0031_001.markers.yaml, hash: 'sha256:90447d1f7af11936aaf7d99c7c6fdd76384e6993c5ac34728d0c5f052e66498a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0031_000.markers.yaml, hash: 'sha256:6ccb1aa26b249520b6662c81a32b54c6cf7e81d1637cf887d2880b956d4ed889'}
+  - {seq: 1, role: markers, filename: assets/KR6i0031_001.markers.yaml, hash: 'sha256:2db9b5ebfcfa6d28006fca620536d0f123db3e1ff2e64992f6c96d8dbd3c6c98'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說觀彌勒菩薩上生兜率天經
   type: juan
   level: 1
-hash: sha256:89eaf58a62961cd866df5876deebd1353d03e6015bd7c3b2da4cc2918614e90e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6db40b20c8f3134a7cb3706ac58c76643d6b6c619a70a1339488e51e7cc64755

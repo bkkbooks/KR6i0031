@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0031/v1
 canonical_location: https://kanripo.org/bkk/KR6i0031/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說觀彌勒菩薩上生兜率天經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0031_000.yaml, hash: 'sha256:21cf26ff2db1b31613d43c5b8364b7a3ac20d0b168d0cd7c6966e9192789a164'}
-  - {seq: 1, filename: KR6i0031_001.yaml, hash: 'sha256:383ebda42e52e8eeb3e95eb627027e20cb13e9664c8d460bfeb10379df0e7f8b'}
+  - {seq: 1, filename: KR6i0031_001.yaml, hash: 'sha256:4eeb449b60dac95c12451ca36587f42b22ca314ada9c45ad41599d8557062c2b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0031_000.markers.yaml, hash: 'sha256:6ccb1aa26b249520b6662c81a32b54c6cf7e81d1637cf887d2880b956d4ed889'}
-  - {seq: 1, role: markers, filename: assets/KR6i0031_001.markers.yaml, hash: 'sha256:2db9b5ebfcfa6d28006fca620536d0f123db3e1ff2e64992f6c96d8dbd3c6c98'}
+  - {seq: 1, role: markers, filename: assets/KR6i0031_001.markers.yaml, hash: 'sha256:1f78044b20ffb9ccb5a2188ad65405b9d56f496d848fb4d5a0b8ad8d1bc5b731'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說觀彌勒菩薩上生兜率天經
   type: juan
   level: 1
-hash: sha256:6db40b20c8f3134a7cb3706ac58c76643d6b6c619a70a1339488e51e7cc64755
+hash: sha256:1cb30112a7a4824f574c23dd73bacd582a05860173e411053e6f6d6d9e4b11d0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
